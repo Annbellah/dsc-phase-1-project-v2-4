@@ -30,3 +30,6 @@ The histogram plot visually illustrates how the count of movies is distributed a
 
 ![alt text](image-2.png)
 
+I also plotted nother barchart to show how production budget and profit of movies are related. From the bar chart, its evident that Avatar had the highest production budget and still had massive profits from 2009 to 2019.
+
+![alt text](image-3.png)
