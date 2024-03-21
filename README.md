@@ -19,12 +19,7 @@ This scatterplot shows the correlation between the worlwide gross and production
 
 ![alt text](image-1.png)
 
-
 From this, as the production budget increases so does the worldwide gross
-
-The bar chart illustrates the number of movie releases per month based on data from 1997 to 2019. December is notably the month with the highest number of movie releases, closely followed by October.
-
-![alt text](image.png)
 
 The histogram plot visually illustrates how the count of movies is distributed across different production budgets, highlighting that more movies tend to have higher budgets.
 
@@ -33,3 +28,7 @@ The histogram plot visually illustrates how the count of movies is distributed a
 I also plotted nother barchart to show how production budget and profit of movies are related. From the bar chart, its evident that Avatar had the highest production budget and still had massive profits from 2009 to 2019.
 
 ![alt text](image-3.png)
+
+The bar chart illustrates the number of movie releases per month based on data from 1997 to 2019. December is notably the month with the highest number of movie releases, closely followed by October.
+
+![alt text](image.png)
