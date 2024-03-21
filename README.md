@@ -62,3 +62,7 @@ The lastly was the correlation between runtime and popularity. Whereby they were
 Action is the most profitable genre, with Drama and Comedy following closely. I also uncovered a positive relationship between movie budgets and revenues, indicating that higher-budget films generally earned more. Interestingly, movie runtime showed minimal influence on revenue.
 
 May, June, and July have consistently shown the highest profit margins. However, the underlying reasons behind the increased profits during these specific months require deeper investigation.
+
+## Next Steps
+- Subsequent analysis may gather additional data concerning production companies and the collaborative relationships among actors and directors to forecast profitability more effectively. 
+- Integrating more extensive financial datasets into the analysis would enhance the accuracy of the figures.
