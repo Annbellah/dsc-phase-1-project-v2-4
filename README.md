@@ -16,8 +16,17 @@ The information we have is stored within a directory called "zippedData" and ori
 
 ## Results
 This scatterplot shows the correlation between the worlwide gross and production budget 
+
 ![alt text](image-1.png)
+
+
 From this, as the production budget increases so does the worldwide gross
 
 The bar chart illustrates the number of movie releases per month based on data from 1997 to 2019. December is notably the month with the highest number of movie releases, closely followed by October.
+
 ![alt text](image.png)
+
+The histogram plot visually illustrates how the count of movies is distributed across different production budgets, highlighting that more movies tend to have higher budgets.
+
+![alt text](image-2.png)
+
