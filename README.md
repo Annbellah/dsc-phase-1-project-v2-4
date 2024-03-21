@@ -1,5 +1,3 @@
-# Phase 1 Project Description
-
 ## Project Overview
 
 For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
