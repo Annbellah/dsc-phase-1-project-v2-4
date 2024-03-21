@@ -49,3 +49,6 @@ I plotted a barchart to see which genres had the most number of votes.
 
 From the above barchart, a combination of Action, Adventure, and Sci-Fi genres enjoys notably higher popularity compared to other genres.
 
+I also checked what is the correlation between runtime and popularity but there was no correlation 
+
+![alt text](image-6.png)
