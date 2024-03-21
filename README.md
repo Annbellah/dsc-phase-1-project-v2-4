@@ -16,3 +16,4 @@ The information we have is stored within a directory called "zippedData" and ori
 
 ## Results
 The bar chart illustrates the number of movie releases per month based on data from 1997 to 2019. December is notably the month with the highest number of movie releases, closely followed by October.
+![alt text](image.png)
