@@ -15,7 +15,7 @@ Microsoft is venturing into original video content creation by establishing a ne
 The information we have is stored within a directory called "zippedData" and originates from several movie aggregation platforms: IMDB, Box Office Mojo, Rotten Tomatoes, TheMovieDB, and The Numbers. The IMDB data comprises movie genres, average ratings, and the number of votes garnered, which we integrated into a consolidated table for comprehensive analysis. Additionally, we examined data from other sources encompassing budgets, domestic and worldwide gross earnings, and release dates.
 
 ## Results
-# I started with the 'tn.movies_budgets.csv' data set 
+I started with the 'tn.movies_budgets.csv' data set 
 
 This scatterplot shows the correlation between the worlwide gross and production budget 
 
