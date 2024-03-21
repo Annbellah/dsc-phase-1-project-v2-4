@@ -15,5 +15,9 @@ Microsoft is venturing into original video content creation by establishing a ne
 The information we have is stored within a directory called "zippedData" and originates from several movie aggregation platforms: IMDB, Box Office Mojo, Rotten Tomatoes, TheMovieDB, and The Numbers. The IMDB data comprises movie genres, average ratings, and the number of votes garnered, which we integrated into a consolidated table for comprehensive analysis. Additionally, we examined data from other sources encompassing budgets, domestic and worldwide gross earnings, and release dates.
 
 ## Results
+This scatterplot shows the correlation between the worlwide gross and production budget 
+![alt text](image-1.png)
+From this, as the production budget increases so does the worldwide gross
+
 The bar chart illustrates the number of movie releases per month based on data from 1997 to 2019. December is notably the month with the highest number of movie releases, closely followed by October.
 ![alt text](image.png)
