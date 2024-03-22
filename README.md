@@ -1,3 +1,7 @@
+![alt text](image-8.png)
+
+
+
 ## Project Overview
 In this project, I will employ exploratory data analysis to derive valuable insights for a business stakeholder. Our analysis will assess the performance of a movie using the following metrics:
 1. Movie Ratings
